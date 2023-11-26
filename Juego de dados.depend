@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1688076421 source:c:\users\usuario\desktop\juego de labo\juego de dados\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	"rlutil.h"
+	"funciones.h"
+
+1571569938 c:\users\usuario\desktop\juego de labo\juego de dados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687923562 c:\users\usuario\desktop\juego de labo\juego de dados\funciones.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
+1687724914 source:e:\desktop\juego de dados\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	"rlutil.h"
+	"funciones.h"
+
+1571569938 e:\desktop\juego de dados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687489915 e:\desktop\juego de dados\funciones.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
